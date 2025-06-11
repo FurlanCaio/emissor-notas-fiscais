@@ -38,7 +38,7 @@ Este projeto é um esboço inicial e parte do meu processo contínuo de aprendiz
 ## Como executar
 
 1. Clone o repositório:
-git clone https://github.com/seuusuario/emissor-notas-fiscais.git
+git clone https://github.com/FurlanCaio/emissor-notas-fiscais.git
 
 2. Instale a biblioteca ReportLab, se ainda não tiver:
 pip install reportlab
